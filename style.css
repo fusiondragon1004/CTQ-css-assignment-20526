@@ -1,0 +1,2 @@
+div{border:10px solid gray;font-size:100px;}
+ @media(max-width:10000px){div{display:none;}}
